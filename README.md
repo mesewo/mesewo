@@ -15,8 +15,8 @@ How to optimize backend APIs for performance and reliability
 System design strategies and troubleshooting tips
 Using AI in IT—making systems smarter and easier to use
 📫 Let’s Connect!
-Email: studentmesewo@gmail.com
-Telegram: @mesewo
+Email: studentmesewo@gmail.com or amdehaymanotbefekadu@gmail.com
+Telegram: @Mesewo
 Feel free to check out my projects below—if you have feedback or want to chat about tech, just reach out!
 
 <!--
